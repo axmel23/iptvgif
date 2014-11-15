@@ -8,3 +8,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=003&lan=2&ro
 
 #EXTINF:-1 tvg-logo=" " group-title="MX",Nova
 http://88.10.30.89:4022/udp/239.0.0.106:8208
+
+#EXTINF:-1 tvg-logo=" " group-title="Deportes",sky sport
+rtmp://$OPT:rtmp-raw=rtmp://62.210.93.241:443/liverepeater playpath=175248 pageUrl=http://biggestplayer.me/loboi token=#atd%#$ZH
