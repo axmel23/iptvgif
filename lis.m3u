@@ -21,5 +21,5 @@ rtmp://sl100tb.cxnlive.com/live/canal9.stream
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="tv abierta",History
 http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.camtel.com/Images/Interior/channel%20logos/espn%20hd%20logo.jpg" group-title="tv abierta",ESPN
+#EXTINF:-1 tvg-logo="http://static.guim.co.uk/sys-images/Media/Pix/pictures/2009/6/22/1245691705982/ESPN-logo-001.jpg" group-title="tv abierta",ESPN
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
