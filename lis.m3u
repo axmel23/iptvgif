@@ -17,3 +17,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&ro
 
 #EXTINF:-1 tvg-logo="http://cdn-img.easylogo.cn/gif/25/25548.gif" group-title="tv abierta",Canal 9
 rtmp://sl100tb.cxnlive.com/live/canal9.stream
+
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/c/cd/Historia_logo.jpg" group-title="tv abierta",History
+http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
