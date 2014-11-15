@@ -5,3 +5,6 @@ http://tinyurl.com/m49t2ss
   	
 #EXTINF:-1 tvg-logo=" " group-title="MX",Azteca noticias
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=003&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="MX",Nova
+http://88.10.30.89:4022/udp/239.0.0.106:8208
