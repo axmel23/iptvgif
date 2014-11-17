@@ -7,7 +7,7 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="tv abierta",Canal 7
+#EXTINF:-1 tvg-logo="http://ligatv.com.mx/images/azteca7_hd.jpg" group-title="tv abierta",Canal 7
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvchingona.net/wp-content/uploads/2013/12/foro-tv-hd.gif" group-title="tv abierta",Foro tv
