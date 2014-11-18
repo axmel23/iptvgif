@@ -30,3 +30,9 @@ rtmp://95.211.186.218/live playpath=TTVGcanal5tv?id=213393 swfUrl=http://www.mip
 
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="latino",Cinemax
 http://213.202.73.254:443/udp/232.50.28.206:1234
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
