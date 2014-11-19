@@ -39,3 +39,70 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&prot
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",Espn Deportes
 rtmp://137.63.71.234/edge/ESPN2/ESPN2/ playpath=ESPN2 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/huraivza
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Xtreme%20Hd.png" group-title="INTERSPORT", Xtreme
+http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/fightbox.jpg" group-title="INTERSPORT",FIGHT BOX
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport1.jpg" group-title="INTERSPORT",Super Sport 1 (Albania)
+http://176.62.8.39/stream/supersport1/exyu2014/2014tasexyu
+ 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport2.jpg" group-title="INTERSPORT",Super Sport 2 (Albania)
+http://176.62.8.39/stream/supersport2/exyu2014/2014tasexyu
+ 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport3.jpg" group-title="INTERSPORT",Super Sport 3 (Albania)
+http://176.62.8.39/stream/supersport3/exyu2014/2014tasexyu
+ 
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/digit_alb_supersport4.jpg" group-title="INTERSPORT",Super Sport 4 (Albania)
+http://176.62.8.39/stream/supersport4/exyu2014/2014tasexyu
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%201.jpg" group-title="INTERSPORT",Pro Sports 1 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%202.jpg" group-title="INTERSPORT",Pro Sports 2 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%203.jpg" group-title="INTERSPORT",Pro Sports 3 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/pro%20sport%204.jpg" group-title="INTERSPORT",Pro Sports 4 (UAE)
+http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-id="Fight Channel" tvg-logo="7312329.png", Fight Channel
+http://83.139.104.123/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/SPORTIME.TV.jpg" group-title="INTERSPORT",SPORTIME.TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv1-hd.jpeg" group-title="INTERSPORT",Sport TV 1
+rtmp://94.242.228.96/liveedge//channel5
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport_tv2_pt.jpg" group-title="INTERSPORT",Sport TV 2
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ 
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2011/07/sport-tv3.jpg" group-title="INTERSPORT",Sport TV 3
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+
+#EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",Sport TV 4
+rtmp://91.109.18.244:8080/live/params/tm3.stream
+
