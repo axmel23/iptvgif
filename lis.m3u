@@ -106,3 +106,127 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",Sport TV 4
 rtmp://91.109.18.244:8080/live/params/tm3.stream
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Neox.jpg" group-title="SERIES",NEOX
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.hogarutil.com/img/tv/fondo-tv.png" group-title="DOCUMENTALES",CANAL DECASA
+http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_ALk_7LvjPXI/TRiWYHL8ZyI/AAAAAAAAAOs/DBE1TMh-tHk/s1600/gh_24-horas-directo.jpg" group-title="DOCUMENTALES",GH15 24 horas
+http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Antena3.jpg" group-title="TDT",ANTENA 3
+rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live/stream-antena3_1
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Tele5.jpg" group-title="TDT",TELECINCO
+http://xurl.es/tele5
+
+#EXTINF:-1 tvg-logo="http://www.kiddyminimodel.es/blog/wp-content/uploads/2013/10/laSexta.jpg" group-title="TDT",LA SEXTA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FsmOBo723e4/URTeEyuvzvI/AAAAAAAAAaU/uhiopzO-3Wk/s1600/aragontv.jpg" group-title="TDT",Aragon Tv
+http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/IbizaON%20tv.png" group-title="MUSICA",Ibiza On Tv
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+
+#EXTINF:-1 tvg-logo="Vh1.png" group-title="MUSICA",VH1
+rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates
+ 
+#EXTINF:-1 tvg-logo="Vh-1 Classic.png" group-title="MUSICA",VH-1 Classic
+http://gogo.jksw.cz:8024
+
+#EXTINF:-1 tvg-logo="4Music.png" group-title="MUSICA",4Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+ 
+#EXTINF:-1 tvg-logo="Aka.png" group-title="MUSICA",Aka
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Clubland.png" group-title="MUSICA",Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="Best Music.png" group-title="MUSICA",Best Music Tv
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1 tvg-logo="http://www.lasteles.com/uploads/video/thumb17007.jpg" group-title="MUSICA"",Stage Tv
+rtmp://149.11.34.6/live/stagetv.stream
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/TELEMUSICA.jpg" group-title="MUSICA"",Telemusica
+rtsp://190.0.28.154:1935/live/S9bgB8dJmS
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/URBAN_TV.jpg" group-title="MUSICA"",Urban Tv
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
+
+#EXTINF:-1 tvg-logo="Smash Hits.png" group-title="MUSICA",Smash Hits
+http://csm-e.cds1.yospace.com/csm/live/86561609.m3u8
+ 
+#EXTINF:-1 tvg-logo="Legends.png" group-title="MUSICA",Music Legends
+rtmp://mi2.gv.filmon.com:8086/live/257.high.stream
+ 
+#EXTINF:-1 tvg-logo="Planet pop.png" group-title="MUSICA",Planet pop
+http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
+ 
+#EXTINF:-1 tvg-logo="Reagge.png" group-title="MUSICA",Reggae 
+http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
+ 
+ #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Trace%20Urban.png" group-title="MUSICA",Trace Urban
+http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr497k.m3u8?trackingid=4041670000&m3usessid=6afbadecc074aa1c326f55d2fdf951cb&len=41&gtime=1364313761&guid=82fb67b0785c4030ffcf123456789012&da=0&hk=8620C68C2B587C13BFD44592CD483BD2
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Virgin%20Radio%20Tv.png" group-title="MUSICA",Virgin 1
+rtmp://fms.105.net:1935/live playpath=virgin1 swfUrl=http://video.virginradioitaly.it/co...y.it/com/universalmind/tv/virgin/videoXML.xml live=1 pageUrl=http://www.cracketzaa.tv/canal/virgintv.php?width=711&height=410
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/vita_tv.png" group-title="MUSICA",Vita Tv
+rtmp://rtmp.infomaniak.ch/livecast/vitatv
+
+#EXTINF:-1 tvg-logo="http://iptvdigital.com/imagenes/canal_live/98_canal_live_heart.jpg" group-title="MUSICA",Heart
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Heart
+ 
+#EXTINF:-1 tvg-logo="The box.png" group-title="MUSICA",The Box
+http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
+ 
+#EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Capital%20Tv.jpg" group-title="MUSICA",Capital Tv
+rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Deluxe%20Music.png" group-title="MUSICA",Delux Music
+rtmp://149.11.34.6/live/deluxetvmusic.stream
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Polo%20Tv.png" group-title="MUSICA",Polo Tv
+rtmp://stream.smcloud.net/live/polotv
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/For%20Music.png" group-title="MUSICA",For Music
+rtmp://194.116.73.52/quartaretetv1/formusicweb
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Fresh%20TV.png" group-title="MUSICA",Fresh Tv
+rtmp://www.planeta-online.tv:1936/live/channel_4.flv pageUrl=http://www.planeta-online.tv swfUrl=http://www.planeta-online.tv/planeta_player.swf?ver=871
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Kiss%20Tv.png" group-title="MUSICA",Kiss Tv
+rtmp://tst.es.flash.glb.ipercast.net:1935/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf live=1 pageUrl=http://www.kisstelevision.es/
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/MELODY_CHANNEL.jpg" group-title="MUSICA",Melody
+rtmp://190.0.28.154:1935/live/ playpath=pqDyhE3GWS swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.melodychanneltv.com/iframe/
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",Mimusica Tv
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/ELEKTROSOUND.jpg" group-title="MUSICA",Elektrosound
+rtmp://www.electrosound.tv:1935/public/stream
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3MKwsrAZYgCNOZgq4U-NFzYWRcTfl_-fkZsCpP5uSCx6V-6uPiQ" group-title="MUSICA",Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
+http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+
+
