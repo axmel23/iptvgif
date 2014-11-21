@@ -229,4 +229,7 @@ rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="tv abierta",AZTECA 7
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=008&lan=2&rows=40&f=.m3u8
+
 
