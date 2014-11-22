@@ -49,11 +49,20 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&ro
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="NIÑOS",DisneyJr
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=212&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo="http://image.hotdog.hu/user/Flux/profil/CartoonNetwork.jpg" group-title="NIÑOS",Cartoon
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/5200000/Disney-XD-logo-aaron-stone-5232900-592-350.jpg" group-title="NIÑOS",DisneyXD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=35&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20110804210704/cartoonnetwork/images/thumb/4/47/Boomerang_US_logo.png/1024px-Boomerang_US_logo.png" group-title="NIÑOS",Boomerang
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20100203191913/logopedia/images/4/4c/Discovery_Kids_Latin_America_2009.svg" group-title="NIÑOS",DiscoveryKids
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://jupiter.inthehive.net/sites/roundsgreen/public/Public%20Site%20Pictures/CBeebies%20logo.png" group-title="NIÑOS",BeeBies
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=200&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logowik.com/uploads/images/278_tiin.jpg" group-title="NIÑOS",Tiin
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
