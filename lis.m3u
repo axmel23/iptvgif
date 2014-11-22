@@ -25,9 +25,6 @@ http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="latino",Fox sport
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i2.esmas.com/2012/05/14/371195/logo-canal-5-300x350.jpg"tv abierta",canal 5
-rtmp://95.211.186.218/live playpath=TTVGcanal5tv?id=213393 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/embedplayer/TTVGcanal5tv/1/600/400
-
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="latino",Cinemax
 http://213.202.73.254:443/udp/232.50.28.206:1234
 
