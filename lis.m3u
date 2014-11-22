@@ -13,7 +13,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.tvchingona.net/wp-content/uploads/2013/12/foro-tv-hd.gif" group-title="tv abierta",Foro tv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="Deportes",ESPN HD
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://chingonatv.com/wp-content/uploads/2013/11/canal-de-las-estrellas-en-HD.jpg"tv abierta",canal 2
