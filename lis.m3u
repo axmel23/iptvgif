@@ -25,6 +25,35 @@ http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="latino",Cinemax
 http://213.202.73.254:443/udp/232.50.28.206:1234
 
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/sf_channel_logo_detail.jpg" group-title="PELICULAS",SYFY
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.brandingmagazine.com/wp-content/uploads/2012/01/universal-logo-bm-full.jpg" group-title="PELICULAS",UniversalStudios
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-V-LkQ_r311E/UyHz0u15zVI/AAAAAAAAAGo/mUeX4iuiVsA/s1600/mv.jpg" group-title="PELICULAS",MovieCityP
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
+
+#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 
