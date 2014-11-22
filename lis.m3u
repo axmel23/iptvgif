@@ -49,7 +49,8 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&ro
 #EXTINF:-1 tvg-logo="http://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg" group-title="PELICULAS",Golden
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20130415124233/logopedia/images/5/50/AMC_2013.png" group-title="PELICULAS",AMC
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
@@ -170,6 +171,12 @@ rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 
 #EXTINF:-1 tvg-logo="Vh1.png" group-title="MUSICA",VH1
 rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",MiMusica
+ http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+ 
+ #EXTINF:-1 tvg-logo="http://img.xatakamovil.com/2011/11/bbm-music-logo.jpg"MUSICA",Me Suena
+ http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
  
 #EXTINF:-1 tvg-logo="Vh-1 Classic.png" group-title="MUSICA",VH-1 Classic
 http://gogo.jksw.cz:8024
