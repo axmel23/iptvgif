@@ -46,6 +46,11 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.cinemax-premium.com/Cinemax_11.jpg" group-title="PELICULAS",cinemax
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg" group-title="PELICULAS",Golden
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
@@ -55,7 +60,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&ro
 #EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20110804210704/cartoonnetwork/images/thumb/4/47/Boomerang_US_logo.png/1024px-Boomerang_US_logo.png" group-title="NIÑOS",Boomerang
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=230&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20100203191913/logopedia/images/4/4c/Discovery_Kids_Latin_America_2009.svg" group-title="NIÑOS",DiscoveryKids
+#EXTINF:-1 tvg-logo="http://luxx.com.au/images/content/dk_01.jpg" group-title="NIÑOS",DiscoveryKids
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=195&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://jupiter.inthehive.net/sites/roundsgreen/public/Public%20Site%20Pictures/CBeebies%20logo.png" group-title="NIÑOS",BeeBies
