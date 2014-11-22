@@ -37,22 +37,23 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&ro
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-V-LkQ_r311E/UyHz0u15zVI/AAAAAAAAAGo/mUeX4iuiVsA/s1600/mv.jpg" group-title="PELICULAS",MovieCityP
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1155_2_122288.png" group-title="PELICULAS",Moviecity Action
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0036_cine_canal.png" group-title="PELICULAS",CineCanal
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="http://www.cinemax-premium.com/Cinemax_11.jpg" group-title="PELICULAS",cinemax
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/disney-jr-post.jpg" group-title="NIÑOS",DisneyJr
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=212&lan=2&rows=40&f=.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
-
-
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
-
-
-#EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",
+#EXTINF:-1 tvg-logo="http://images2.fanpop.com/images/photos/5200000/Disney-XD-logo-aaron-stone-5232900-592-350.jpg" group-title="NIÑOS",DisneyXD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=35&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
