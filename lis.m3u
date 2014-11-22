@@ -16,14 +16,10 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="latino",History
-http://www.ienlace-tv.com:1935/live10/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="latino",Fox sport
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.ytimg.com/vi/WRwHveXhgMA/maxresdefault.jpg" group-title="latino",Cinemax
-http://213.202.73.254:443/udp/232.50.28.206:1234
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
@@ -52,6 +48,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&ro
 #EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20130415124233/logopedia/images/5/50/AMC_2013.png" group-title="PELICULAS",AMC
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
 
+
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
@@ -69,6 +66,10 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=200&lan=2&ro
 
 #EXTINF:-1 tvg-logo="http://www.logowik.com/uploads/images/278_tiin.jpg" group-title="NIÑOS",Tiin
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/uploads/2013/06/Disney-XD-Channel-MGFX-Studio-Rushes-Motion-Graphics-Branding-Identity-Design-5.jpg" group-title="NIÑOS",DisneyXD
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=228&lan=2&rows=40&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
@@ -148,8 +149,25 @@ rtmp://91.109.18.244:8080/live/params/tm3.stream
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Neox.jpg" group-title="SERIES",NEOX
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.hogarutil.com/img/tv/fondo-tv.png" group-title="DOCUMENTALES",CANAL DECASA
+
+#EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg" group-title="DOCUMENTALES",CANAL DECASA
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.talentsunited.com/wp-content/uploads/2013/05/logo-NatGeo.jpg" group-title="DOCUMENTALES",National Geografic
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=270&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://fc08.deviantart.net/fs71/f/2010/064/9/a/Nat_Geo_Wild_wallpaper_tut_psd_by_GhostFight3r.jpg" group-title="DOCUMENTALES",Nat.Geo.Wild
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d13yacurqjgara.cloudfront.net/users/208905/screenshots/735558/infinito.png" group-title="DOCUMENTALES",Infinito
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.mandmglobal.com/Libraries/IMZ_company_logos/history_logo.sflb.ashx" group-title="DOCUMENTALES",History
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=246&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.colormake.com/wp-content/uploads/2014/02/Animal_Planet.png" group-title="DOCUMENTALES",AnimalPlanet
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_ALk_7LvjPXI/TRiWYHL8ZyI/AAAAAAAAAOs/DBE1TMh-tHk/s1600/gh_24-horas-directo.jpg" group-title="DOCUMENTALES",GH15 24 horas
 http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u8?sd=10&rebase=on
