@@ -19,34 +19,37 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&ro
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=316&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/sf_channel_logo_detail.jpg" group-title="PELICULAS",SYFY
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=142&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.brandingmagazine.com/wp-content/uploads/2012/01/universal-logo-bm-full.jpg" group-title="PELICULAS",UniversalStudios
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=374&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-V-LkQ_r311E/UyHz0u15zVI/AAAAAAAAAGo/mUeX4iuiVsA/s1600/mv.jpg" group-title="PELICULAS",MovieCityP
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1155_2_122288.png" group-title="PELICULAS",Moviecity Action
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0036_cine_canal.png" group-title="PELICULAS",CineCanal
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.limetv.com/images/channel-logos/cinecanal-logo.jpg" group-title="PELICULAS",CineCanal PLUS
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=312&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.cinemax-premium.com/Cinemax_11.jpg" group-title="PELICULAS",cinemax
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvnotiblog.com/wp-content/uploads/2010/03/golden-hd.jpg" group-title="PELICULAS",Golden
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=317&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=320&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20130415124233/logopedia/images/5/50/AMC_2013.png" group-title="PELICULAS",AMC
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.sintelevisor.com/tv/imagenes/thefilmzone.jpg" group-title="PELICULAS",FilmZone
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=324&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
