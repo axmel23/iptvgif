@@ -6,7 +6,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://www.tr3sco.com/images/img/portfolio/jpg/aztecanoticias.jpg" group-title="tv abierta",Azteca noticias
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://ligatv.com.mx/images/azteca7_hd.jpg" group-title="tv abierta",Canal 7
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&rows=40&f=.m3u8
 
@@ -16,10 +15,8 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="latino",Fox sport
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=313&lan=2&rows=40&f=.m3u8
@@ -51,7 +48,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=329&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.sintelevisor.com/tv/imagenes/thefilmzone.jpg" group-title="PELICULAS",FilmZone
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=321&lan=2&rows=40&f=.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_hQH_YBUEwSI/TFTZMjT7qvI/AAAAAAAAAGQ/GCKEpUIrKYE/s1600/LOGO+IT'S+ON+MORADO.png" group-title="NIÑOS",DisneyChannel
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
@@ -73,9 +69,11 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/uploads/2013/06/Disney-XD-Channel-MGFX-Studio-Rushes-Motion-Graphics-Branding-Identity-Design-5.jpg" group-title="NIÑOS",DisneyXD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=228&lan=2&rows=40&f=.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/bandamax-logo-1.jpg"MUSICA",Bandamax
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -149,7 +147,6 @@ rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to
 #EXTINF:-1 tvg-logo="http://nowwatchtvlive.com/wp-content/uploads/2012/11/Sport-Tv-4.png" group-title="INTERSPORT",Sport TV 4
 rtmp://91.109.18.244:8080/live/params/tm3.stream
 
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Neox.jpg" group-title="SERIES",NEOX
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 
@@ -158,7 +155,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=109&lan=2&ro
 
 #EXTINF:-1 tvg-logo="http://img2.wikia.nocookie.net/__cb20110708162050/es-glee/es/images/f/f8/FOX_logo.png" group-title="SERIES",FOX
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&rows=40&f=.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg" group-title="DOCUMENTALES",CANAL DECASA
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
@@ -184,7 +180,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&ro
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20140506215312/logopedia/images/a/a6/Discovery_Science_2nd_variant.png" group-title="DOCUMENTALES",Discovery Science
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&rows=40&f=.m3u8
 
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_ALk_7LvjPXI/TRiWYHL8ZyI/AAAAAAAAAOs/DBE1TMh-tHk/s1600/gh_24-horas-directo.jpg" group-title="DOCUMENTALES",GH15 24 horas
 http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u8?sd=10&rebase=on
 
@@ -207,10 +202,10 @@ rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
 rtmp://edge03-03.az.myvideo.az/dvrh264/vh1/ playpath=mp4:vh1 swfUrl=http://www.myvideo.az/stml/dvr/dvrH.swf?v=1.2 live=1 pageUrl=http://www.myvideo.az/r.ates
 
 #EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" group-title="MUSICA",MiMusica
- http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
  
- #EXTINF:-1 tvg-logo="http://img.xatakamovil.com/2011/11/bbm-music-logo.jpg"MUSICA",Me Suena
- http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
+#EXTINF:-1 tvg-logo="http://img.xatakamovil.com/2011/11/bbm-music-logo.jpg"MUSICA",Me Suena
+http://uneapple-i.akamaihd.net/hls/live/205017/grupoune_st8@205017/st8_index.m3u8
  
 #EXTINF:-1 tvg-logo="Vh-1 Classic.png" group-title="MUSICA",VH-1 Classic
 http://gogo.jksw.cz:8024
@@ -248,7 +243,7 @@ http://cdn.live.simplestream.com/D6I0S4IWX8O1NJDNBTRE/3/playlist-limelight.m3u8
 #EXTINF:-1 tvg-logo="Reagge.png" group-title="MUSICA",Reggae 
 http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
  
- #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Trace%20Urban.png" group-title="MUSICA",Trace Urban
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Trace%20Urban.png" group-title="MUSICA",Trace Urban
 http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr497k.m3u8?trackingid=4041670000&m3usessid=6afbadecc074aa1c326f55d2fdf951cb&len=41&gtime=1364313761&guid=82fb67b0785c4030ffcf123456789012&da=0&hk=8620C68C2B587C13BFD44592CD483BD2
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 1
