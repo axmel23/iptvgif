@@ -66,14 +66,14 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=200&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.logowik.com/uploads/images/278_tiin.jpg" group-title="NIÑOS",Tiin
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=236&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/uploads/2013/06/Disney-XD-Channel-MGFX-Studio-Rushes-Motion-Graphics-Branding-Identity-Design-5.jpg" group-title="NIÑOS",DisneyXD
+#EXTINF:-1 tvg-logo="http://www.logo-designer.co/wp-content/tudio-Rushes-Motion-Graphics-Branding-Identity-Design-5.jpg" group-title="NIÑOS",DisneyXD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=228&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/1HD.png" group-title="MUSICA",1Hd Music
 http://109.239.142.62:1935/live/hlsstream/playlist3.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/bandamax-logo-1.jpg"MUSICA",Bandamax
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=49&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png"DEPORTES",ESPN TP
+http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png
 
 #EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
