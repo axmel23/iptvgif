@@ -34,7 +34,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=297&lan=2&ro
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=301&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0036_cine_canal.png" group-title="PELICULAS",CineCanal
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=350&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=349&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cinemax-premium.com/Cinemax_11.jpg" group-title="PELICULAS",cinemax
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=354&lan=2&rows=40&f=.m3u8
