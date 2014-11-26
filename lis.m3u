@@ -12,10 +12,10 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.tvchingona.net/wp-content/uploads/2013/12/foro-tv-hd.gif" group-title="tv abierta",Foro tv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport
+#EXTINF:-1 tvg-logo="http://www.twcmedia.com/uploadedImages/FOX_Sports_1_Logo%20LG.jpg" group-title="DEPORTES",Fox sport
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport 2
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox sport 2
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
@@ -96,10 +96,10 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 1
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-logo="http://www.blogcdn.com/www.engadget.com/media/2007/03/espn2hd.jpg" group-title="DEPORTES",ESPN 2
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/T8VKF.jpg" group-title="DEPORTES",ESPN 3
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Xtreme%20Hd.png" group-title="INTERSPORT", Xtreme
