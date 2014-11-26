@@ -12,20 +12,11 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=007&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.tvchingona.net/wp-content/uploads/2013/12/foro-tv-hd.gif" group-title="tv abierta",Foro tv
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 
-#EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
-
 #EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=397&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport HD
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=398&lan=2&rows=40&f=.m3u8
-
 #EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport 2
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=2&rows=40&f=.m3u8
-
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport 2 HD 
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=402&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=316&lan=2&rows=40&f=.m3u8
@@ -99,14 +90,17 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&prot
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-NH9V9EIXDPg/TfOwmW5yiVI/AAAAAAAAAiw/9riAAWyLHBw/s1600/espn_deportes.jpg" group-title="DEPORTES",Espn Deportes
 rtmp://137.63.71.234/edge/ESPN2/ESPN2/ playpath=ESPN2 swfUrl=http://www.pirlotv.me/players/player2.swf live=1 pageUrl=http://www.boxlivetv.net/huraivza
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 3
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=389&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 1
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=405&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 2
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=409&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/37.png" group-title="DEPORTES",ESPN 3
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=393&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Xtreme%20Hd.png" group-title="INTERSPORT", Xtreme
 http://83.139.104.123/Content/HLS/Live/Channel(extreme_sports)/index.m3u8
