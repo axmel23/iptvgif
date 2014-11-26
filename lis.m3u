@@ -15,7 +15,7 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="DEPORTES",ESPN HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=390&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="latino",Fox sport
+#EXTINF:-1 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2014/01/fox-sports-logo.jpg" group-title="DEPORTES",Fox sport
 http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
