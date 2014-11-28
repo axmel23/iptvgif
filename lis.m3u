@@ -27,6 +27,9 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=120&lan=
 #EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/sf_channel_logo_detail.jpg" group-title="PELICULAS",SYFY
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=141&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://mio.singtel.com/miotv/_channels/pic_ch406.jpg" group-title="PELICULAS",Fox Family Movies HD
+http://202.170.127.27/3KgE47bC3d733sb3Igu-THsz/Fox_FamIlY/chengye.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.brandingmagazine.com/wp-content/uploads/2012/01/universal-logo-bm-full.jpg" group-title="PELICULAS",UniversalStudios
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 
