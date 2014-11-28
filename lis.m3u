@@ -181,7 +181,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&row
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dIHk2vMJ2e0/UNOLpNEQa7I/AAAAAAAAADU/-yXNiXqIvLc/s1600/wb-hd.png" group-title="SERIES",Warner
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=96&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=94&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg" group-title="DOCUMENTALES",CANAL DECASA
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
