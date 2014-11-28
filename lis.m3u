@@ -198,6 +198,9 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=250&lan=2&ro
 #EXTINF:-1 tvg-logo="https://d13yacurqjgara.cloudfront.net/users/208905/screenshots/735558/infinito.png" group-title="DOCUMENTALES",Infinito
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20111129005128/logopedia/images/6/63/Discovery_Science_LA_2011.png" group-title="DOCUMENTALES",Discovery Science
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=277&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.mandmglobal.com/Libraries/IMZ_company_logos/history_logo.sflb.ashx" group-title="DOCUMENTALES",History
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=248&lan=2&rows=40&f=.m3u8
 
