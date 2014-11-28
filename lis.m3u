@@ -210,9 +210,6 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&ro
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DOCUMENTALES",Discovery turbo
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=286&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20140506215312/logopedia/images/a/a6/Discovery_Science_2nd_variant.png" group-title="DOCUMENTALES",Discovery Science
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=278&lan=2&rows=40&f=.m3u8
-
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_ALk_7LvjPXI/TRiWYHL8ZyI/AAAAAAAAAOs/DBE1TMh-tHk/s1600/gh_24-horas-directo.jpg" group-title="DOCUMENTALES",GH15 24 horas
 http://gh24hios-lh.akamaihd.net/i/telecinco/gh24hios_1@132501/index_350_av-b.m3u8?sd=10&rebase=on
 
