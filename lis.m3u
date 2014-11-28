@@ -180,6 +180,9 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=85&lan=2&row
 #EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/med_gallery_1163_2_79707.png" group-title="SERIES",Sony HD
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=89&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-dIHk2vMJ2e0/UNOLpNEQa7I/AAAAAAAAADU/-yXNiXqIvLc/s1600/wb-hd.png" group-title="SERIES",Warner
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=66&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.todotele.com/wp-content/uploads/2010/07/decasa.jpg" group-title="DOCUMENTALES",CANAL DECASA
 http://decasa.level3.nmp.hls.emision.dof6.com/sogecable/channel44/index.m3u8
 
