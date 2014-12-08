@@ -21,6 +21,9 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=401&lan=
 #EXTINF:-1 tvg-logo="http://twocentstv.com/wp-content/uploads/2014/03/tnt-logo.jpg" group-title="PELICULAS",TNT
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=316&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://mankabros.com/onmedea/tbs.jpg" group-title="PELICULAS",TBS
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=177&lan=2&rows=40&f=.m3u8
+
 #EXTINF:-1 tvg-logo="http://revistasenal.com/wp-content/uploads/2013/02/comedy-central-se-lanza-en-peru-a-traves-de-claro-tv.jpg" group-title="PELICULAS",Comedy Central
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=120&lan=2&rows=40&f=.m3u8
 
