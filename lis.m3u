@@ -74,7 +74,7 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=324&lan=
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=209&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.nickjrindia.com/images/logo.png" group-title="NIÑOS",Nick JR
-https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=206&lan=2&rows=40&f=.m3u8
+https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=205&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://image.hotdog.hu/user/Flux/profil/CartoonNetwork.jpg" group-title="NIÑOS",Cartoon
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=221&lan=2&rows=40&f=.m3u8
