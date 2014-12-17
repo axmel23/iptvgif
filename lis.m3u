@@ -293,7 +293,7 @@ http://rjr_flash-lh.akamaihd.net/i/retv_1@177154/master.m3u8
 http://46.249.213.87/iPhone/broadcast/tracetvurban-tablet.3gp/tracetvurban-tablet.3gp-mr497k.m3u8?trackingid=4041670000&m3usessid=6afbadecc074aa1c326f55d2fdf951cb&len=41&gtime=1364313761&guid=82fb67b0785c4030ffcf123456789012&da=0&hk=8620C68C2B587C13BFD44592CD483BD2
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 1
-http://vevoplaylist.hls.adaptive.level3.net.vevo.ch1://q9r.me/4bpe?appleman.m3u8
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/VEVO_TV.jpg" group-title="MUSICA",Vevo Tv 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
@@ -315,6 +315,9 @@ http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8
  
 #EXTINF:-1 tvg-logo="Now Music.png" group-title="MUSICA",Now Music
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiosaturn.net/wp-content/uploads/2014/04/MTV-Logo-MTV.jpg" group-title="MUSICA",MTV music
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/u/29770862/LOGOS_LISTAS_WISE/Capital%20Tv.jpg" group-title="MUSICA",Capital Tv
 rtmp://cdn-the-2.musicradio.com:80/LiveVideo/Capital
