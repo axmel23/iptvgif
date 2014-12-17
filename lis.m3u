@@ -37,19 +37,19 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=325&lan=2&ro
 #EXTINF:-1 tvg-logo="http://www.brandingmagazine.com/wp-content/uploads/2012/01/universal-logo-bm-full.jpg" group-title="PELICULAS",UniversalStudios
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=373&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-tMQgzWZ5O1s/UJm00uzlefI/AAAAAAAAXI8/H8c6jlG9Rfo/s1600/moviecity-premieres.png" group-title="PELICULAS",MovieCity Premier
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo="http://x.cdn.entutele.com/media/channels/big/fox-1-hd.gif" group-title="PELICULAS",Fox1 HD
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=298&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/album_2/gallery_1155_2_122288.png" group-title="PELICULAS",Moviecity Action
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-action-e.gif" group-title="PELICULAS",Fox Action hd
+https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=302&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ipuntotv.com/IMAGES/Moviecity%20classics%20logo.png" group-title="PELICULAS",Moviecity Classic
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-classics.gif" group-title="PELICULAS",Fox Classic
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=345&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://discoverflow.co/uploads/channels/2014070212024153b42d211b53a.png?v6" group-title="PELICULAS",Moviecity family
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-family-e.gif" group-title="PELICULAS",Fox family
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=341&lan=2&rows=40&f=.m3u8
 
-#EXTINF:-1 tvg-logo="http://imagenes.colombia.interlatin.com/sdi/2013/11/12/687db92529c94660b463b6a6945dfd89.jpg" group-title="PELICULAS",Moviecity hollywood
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/big/fox-movies.gif" group-title="PELICULAS",Fox Movies
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=308&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0036_cine_canal.png" group-title="PELICULAS",CineCanal
