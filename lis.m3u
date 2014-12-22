@@ -367,3 +367,6 @@ https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=449&lan=
 #EXTINF:-1 tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2012/04/ae_logo.jpg" group-title="Reality Show",A&E
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=108&lan=2&rows=40&f=.m3u8
 
+#EXTINF:-1 tvg-logo="http://joryx.com/wp-content/uploads/suoercampeones.png" group-title="SERIES",Super campeones
+rtmp://$OPT:rtmp-raw=rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv09/mogulus-user-files/choliverybenji/2010/08/20/6f19f2b6-b039-4827-b8e6-7cd5c5196cdc
+
