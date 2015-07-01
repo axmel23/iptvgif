@@ -212,7 +212,7 @@ https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=157&lan=2&ro
 https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=277&lan=2&rows=40&f=.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.mandmglobal.com/Libraries/IMZ_company_logos/history_logo.sflb.ashx" group-title="DOCUMENTALES",History
-https://ott.totalplay.com.mx:443/TPHLSWeb/M3U8LiveFile?format=2&profile=248&lan=2&rows=40&f=.m3u8
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.colormake.com/wp-content/uploads/2014/02/Animal_Planet.png" group-title="DOCUMENTALES",AnimalPlanet
 https://ott.totalplay.com.mx/TPHLSWeb/M3U8LiveFile?format=2&profile=262&lan=2&rows=40&f=.m3u8
