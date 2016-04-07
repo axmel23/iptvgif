@@ -1,4 +1,28 @@
 #EXTM3U
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2073600,RESOLUTION=1920x1080
-http://live.tutvgratis.tv/ch/1664.m3u8?token=.m3u8
+#EXTINF:-1,beIN_SPORTS_News (240p)
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/01.m3u8
+
+#EXTINF:-1,beIN_SPORTS_News (480p)
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/03.m3u8
+
+#EXTINF:-1,beIN_SPORTS_News (600p)
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/04.m3u8
+
+#EXTINF:-1,beIN_SPORTS_News (720p)
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/05.m3u8
+
+#EXTINF:-1,beIN_SPORTS_News (1080p)
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/06.m3u8
+
+#EXTINF:-1,beIN_SPORTS_News
+http://besmenaah-i.akamaihd.net/hls/live/221906/besmena02h/07.m3u8
+
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
+#EXTINF:-1, EURONEWS
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/14-live.m3u8
+
+#EXTINF:-1,Euronews (News) (ES) (Spanish)
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
