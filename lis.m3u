@@ -57,4 +57,6 @@ http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL353/PROFILE03.m3u8?totalplay=
 #EXTINF:0,HISTORY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 
+#EXTINF:-1,HISTORY PRUEBA
+http://167.114.208.58:8080/hls/SOLO-HISTORY.m3u8
 
