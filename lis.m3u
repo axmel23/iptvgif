@@ -51,12 +51,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0, Vevo HD3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="Total-MX_I353.28410.tutvguia.com" tvg-name="353_THCINHD353THCINHDThe_History_Channel_HDTV" tvg-logo="history.png" group-title="Latino",History HD
-http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL353/PROFILE03.m3u8?totalplay=%2F.ts
-
 #EXTINF:0,HISTORY
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
 
-#EXTINF:-1,HISTORY PRUEBA
-http://167.114.208.58:8080/hls/SOLO-HISTORY.m3u8
+
 
